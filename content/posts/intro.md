@@ -1,7 +1,7 @@
 ---
-Título: "La Cultura de un(a) Desarrollador(a) de Software"
-Fecha: 2022-04-08T14:02:21-06:00
-Descripción: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
+title: "La Cultura de un(a) Desarrollador(a) de Software"
+date: 2022-04-08T14:02:21-06:00
+description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
 # La Cultura de un(a) Desarrollador(a) de Software
