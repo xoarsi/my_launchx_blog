@@ -16,7 +16,7 @@ Pienso que la cultura de un(a) profesional de software se refiere al entorno en 
 
 Los valores y bases del conocimiento que yo creo importantes son:  
 
-🎖 **Valores y habilidades:**
+🌟 **Valores y habilidades:**
 - Curiosidad
 - Ingenio
 - Honestidad
@@ -30,18 +30,18 @@ Los valores y bases del conocimiento que yo creo importantes son:
 - Dedicación
 
 📁 **Bases de conocimiento:**
-- Conocer tu sistema operativo y saber manejarlo.
-- Conocer tu editor de texto y sus funciones.
-- Saber usar Git y GitHub.
-- Conocimiento y manejo de un lenguaje de programación como mínimo.
+1. Conocer tu sistema operativo y saber manejarlo.
+2. Conocer tu editor de texto y sus funciones.
+3. Saber usar Git y GitHub.
+4. Conocimiento y manejo de un lenguaje de programación como mínimo.
   
 ___
   
 Ahora, y después de haber investigado un poco acerca de esto, encontré que según Ben Horowitz, la cultura de una empresa (lo cual podría trasladarse a cualquier empresa o profesión, en este caso de Desarrollo de Software), se define con base en:
   
-- El comportamiento acumulado de lo(a)s desarrolladore(a)s.
-- Sus acciones cuando no se les da una indicación.
-- La manera de actuar de las empresas (pienso que podría interpretarse como la forma en que se desempeñan en cada empresa en particular, o en este caso, en la Industria de Desarrollo de Software).
+1. El comportamiento acumulado de lo(a)s desarrolladore(a)s.
+2. Sus acciones cuando no se les da una indicación.
+3. La manera de actuar de las empresas (pienso que podría interpretarse como la forma en que se desempeñan en cada empresa en particular, o en este caso, en la Industria de Desarrollo de Software).
 
 Por lo tanto, "la cultura refleja el ambiente de trabajo y el liderazgo que se da en este". Lo que para mí significa que refleja los valores y habilidades que se practican en el ambiente de trabajo. 
 
@@ -53,8 +53,10 @@ Por lo tanto, una buena cultura en Desarrollo de Software puede establecerse: ut
 
 Para más información respecto a esto, visiten este [post de Codurance](https://www.codurance.com/es/publications/la-importancia-de-la-cultura-en-el-desarrollo-de-software), de donde saqué toda la información de esta última parte.
 
-Creo que no estaba tan alejada mi idea de la cultura de Desarrollo de Software de la realidad, y algo que me pareció muy importante es la parte de que se requiere de una formación continua y de interactuar con comunidades externas, para tener un panorama más amplio y enriquecer nuestro trabajo desde otras perspectivas. Pero sobre todo, de ***disfrutar el proceso***, no estresarnos sólo  por alcanzar los objetivos, si no ir disfrutando cada aprendizaje, cada logro y cada error.
-<br><br><br><br>
+Creo que no estaba tan alejada mi idea de la cultura de Desarrollo de Software de la realidad, y algo que me pareció muy importante es la parte de que se requiere de una formación continua y de interactuar con comunidades externas, para tener un panorama más amplio y enriquecer nuestro trabajo desde otras perspectivas. Pero sobre todo, de ***disfrutar el proceso***, no estresarnos sólo  por alcanzar los objetivos, si no ir disfrutando cada aprendizaje, cada logro y cada error.     
+<br><br><br>     
+
+
 Gracias por leerme, ¡hasta la próxima! 
 
 🚀
