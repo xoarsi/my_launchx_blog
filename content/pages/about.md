@@ -2,20 +2,21 @@
 title: 'About me'
 menu:
   main:
-    name: "AboutMe"
+    name: "Sobre mí"
 ---
 
-## Who am I
+## ¿Quién soy?
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+¡Hola!, aquí vas a leer un poco sobre mí. 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Me llamo Xochipitzahuac, que significa 'flor menuda' en náhuatl, pero pueden decirme Xochi. Tengo 24 años, soy Bióloga (recién me titulé el 5 de abril 🙌).
+Este es mi primer curso de programación y estoy fascinada con todo lo que hemos aprendido y con las infinitas posibilidades que nos abre esta profesión.
+De la Biología me gusta más la Biología Marina, me gusta bucear, mi tesis fue sobre cultivo de camarón, también me gustan los temas de fisiología y nutrición.
+Además de esto, me gusta mucho la repostería y el café, mi meta es abrir mi cafetería y pastelería en algún momento de la vida. También me gusta mucho viajar, ir a festivales (aunque tiene mucho que no voy a uno) y conocer nuevos lugares. En general me gustan todos los animales, excepto las arañas. Tengo siete perros que siempre están haciendo escándalo, pero aun así los quiero mucho 🤭
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Me considero una persona perseverante, dedicada y detallista. Soy introvertida por lo general, pero soy amigable y cuando entro en confianza soy más divertida, o eso creo... y me han dicho 😆. 
+
+
+
+
 
