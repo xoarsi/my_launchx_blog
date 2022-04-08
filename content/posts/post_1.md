@@ -1,7 +1,7 @@
 ---
-Título: "Mi Aventura en Launch-X"
-Fecha: 2022-04-08
-Descripción: 'En este segundo post contaré un poco de lo que ha sido esta aventura en Launch-X de Innovacción Virtual de Microsoft.'
+title: "Mi Aventura en Launch-X"
+date: 2022-04-08
+description: 'En este segundo post contaré un poco de lo que ha sido esta aventura en Launch-X de Innovacción Virtual de Microsoft.'
 ---
 
 # Mi Aventura en Launch-X
